@@ -10,7 +10,7 @@
 
 ## 开源
 
-[开源之道](http://www.ocselected.org/)
+- [开源之道](http://www.ocselected.org/)
 
 ## 常用
 
