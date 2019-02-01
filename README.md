@@ -1,8 +1,6 @@
 # 收藏奇奇怪怪的网站
 
-
-
-
+![](/img/strange-website.png)
 
 ## 创意
 
