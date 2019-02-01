@@ -26,3 +26,4 @@
 ## 域名查询
 
 - [domcomp](https://www.domcomp.com/)
+- [namebeta](https://namebeta.com/)
