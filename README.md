@@ -1,4 +1,4 @@
-# 收藏奇奇怪怪的网站
+# Strange Website
 
 ![](/img/strange-website.png)
 
