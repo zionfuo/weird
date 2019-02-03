@@ -22,6 +22,7 @@
 - [聚合图床](https://www.superbed.cn/)
 - [SM.MS](https://sm.ms/)
 - [Catbox](https://catbox.moe/)
+- [Anonymous Files](https://anonymousfiles.io/)
 
 ## 域名查询
 
