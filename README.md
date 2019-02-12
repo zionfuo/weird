@@ -1,7 +1,5 @@
 # Strange Website
 
-![](/img/strange-website.png)
-
 ## 创意
 
 - [日本の伝統色](http://nipponcolors.com/)
