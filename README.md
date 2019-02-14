@@ -13,6 +13,7 @@
 
 - [LastPass随机密码](https://www.lastpass.com/zh/password-generator)
 - [waifu2x无损放大](http://waifu2x.udp.jp/)
+- [免費資源網路社群](https://free.com.tw/)
 
 ## 图床存储
 
