@@ -4,7 +4,6 @@
 
 - [日本の伝統色](http://nipponcolors.com/)
 - [中国传统颜色](http://zhongguose.com/)
-- [书格](https://shuge.org/)
 
 ## 开源
 
@@ -31,6 +30,7 @@
 
 - [鸠摩](https://www.jiumodiary.com/)
 - [书屋](http://mebook.cc/)
+- [书格](https://shuge.org/)
 
 ## 隐私权政策
 
