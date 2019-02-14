@@ -33,6 +33,12 @@
 - [书屋](http://mebook.cc/)
 - [书格](https://shuge.org/)
 
+## WordPress
+
+- [uxfree](https://www.uxfree.com/)
+- [创客云](https://www.22vd.com/)
+- [weidea](http://www.weidea.net/)
+
 ## 隐私权政策
 
 - [中文隱私權條款](https://github.com/lyrasoft/chinese-privacy-policy-template)
