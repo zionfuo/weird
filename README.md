@@ -15,8 +15,11 @@
 - [waifu2x无损放大](http://waifu2x.udp.jp/)
 - [免費資源網路社群](https://free.com.tw/)
 - [GPSspg](http://www.gpsspg.com/maps.htm)
+- [squoosh](https://squoosh.app/)
+- [tinypng](https://tinypng.com/)
+- [zhitu](https://zhitu.isux.us/)
 
-## 图床存储
+## 图床
 
 - [聚合图床](https://www.superbed.cn/)
 - [SM.MS](https://sm.ms/)
