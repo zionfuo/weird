@@ -5,9 +5,10 @@
 - [日本の伝統色](http://nipponcolors.com/)
 - [中国传统颜色](http://zhongguose.com/)
 
-## 开源
+## 分享
 
 - [开源之道](http://www.ocselected.org/)
+- [SSI Meetup](https://ssimeetup.org/)
 
 ## 常用
 
