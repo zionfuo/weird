@@ -20,6 +20,7 @@
 - [squoosh](https://squoosh.app/)
 - [tinypng](https://tinypng.com/)
 - [zhitu](https://zhitu.isux.us/)
+- [git.io](https://git.io/)
 
 ## 图床
 
