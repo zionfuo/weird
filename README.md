@@ -17,10 +17,11 @@
 - [waifu2x无损放大](http://waifu2x.udp.jp/)
 - [免費資源網路社群](https://free.com.tw/)
 - [GPSspg](http://www.gpsspg.com/maps.htm)
-- [squoosh](https://squoosh.app/)
-- [tinypng](https://tinypng.com/)
-- [zhitu](https://zhitu.isux.us/)
+- [Squoosh](https://squoosh.app/)
+- [Tinypng](https://tinypng.com/)
+- [智图](https://zhitu.isux.us/)
 - [git.io](https://git.io/)
+- [MinGW Distro](https://nuwen.net/mingw.html)
 
 ## 图床
 
