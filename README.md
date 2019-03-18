@@ -55,3 +55,4 @@
 - [中文隱私權條款](https://github.com/lyrasoft/chinese-privacy-policy-template)
 - [MDN 隱私權政策制定指南](https://developer.mozilla.org/zh-TW/docs/Mozilla/Marketplace/Publishing/Privacy_policies#Mozilla_Marketplace_.E7.9A.84.E9.9A.B1.E7.A7.81.E6.AC.8A.E8.A6.81.E6.B1.82)
 - [PrivacyPolicies](https://privacypolicies.com/)
+- [FOSSA](https://fossa.com/)
