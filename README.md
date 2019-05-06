@@ -1,4 +1,4 @@
-# Strange Website
+# 诡异的网站
 
 ## 创意
 
