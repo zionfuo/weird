@@ -39,6 +39,7 @@
 
 - [domcomp](https://www.domcomp.com/)
 - [namebeta](https://namebeta.com/)
+- [tld list](https://zh-hans.tld-list.com)
 
 ## 找书
 
