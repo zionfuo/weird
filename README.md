@@ -25,7 +25,6 @@
 - [共享密钥](http://webact.185.hk/)
 - [Chrome Extension Downloader](https://chrome-extension-downloader.com/)
 - [Ethereum Research](https://ethresear.ch/)
-- [有趣网址之家](https://youquhome.com/)
 
 
 ## 图床
