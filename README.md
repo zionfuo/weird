@@ -5,6 +5,7 @@
 - [日本の伝統色](http://nipponcolors.com/)
 - [中国传统颜色](http://zhongguose.com/)
 - [有趣网址之家](https://youquhome.com/)
+- [壁纸](https://wallhaven.cc/)
 
 ## 分享
 
